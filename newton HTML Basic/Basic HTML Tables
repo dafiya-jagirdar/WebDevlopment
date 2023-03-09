@@ -1,0 +1,24 @@
+  <!-- html code goes here -->
+<!Doctype html>
+<html>
+    <meta name="viewport" content="width=device-width initial-scale=1.0">
+    <meta charset="utf-8">
+    <table>
+        <thead>
+            <tr>
+                <th>Roll numer</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>11</td>
+                <td>Dafiya</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>Ashu</td>
+            </tr>
+        </tbody>
+    </table>
+</html>
