@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Semantic Navbar & Videos</title>
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About us</a></li>
+            <li><a href="#">Contact us</a></li>
+        </ul>
+    </nav>
+
+    <h3>3 random videos</h3>
+
+    <div>
+        <h4>Big Buck Bunny</h4> 
+        <video controls>
+            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                type="video/mp4" />
+        </video>
+    </div>
+
+    <div>
+        <h4>For Bigger Blazes</h4> 
+        <video controls>
+            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                type="video/mp4" />
+        </video>
+    </div>
+
+    <div>
+        <h4>Subaru Outback On Street And Dirt</h4> 
+        <video controls>
+            <source
+                src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+                type="video/mp4" />
+        </video>
+    </div>
+</body>
+
+</html>
